@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunSatis(EntityUygulama)", "UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama).csproj", "{27F7B178-0271-4A38-BC13-FC033D15C1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F7B178-0271-4A38-BC13-FC033D15C1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F7B178-0271-4A38-BC13-FC033D15C1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F7B178-0271-4A38-BC13-FC033D15C1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F7B178-0271-4A38-BC13-FC033D15C1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD2A2DB-1E66-420A-BC14-8B1BFA909A48}
+	EndGlobalSection
+EndGlobal

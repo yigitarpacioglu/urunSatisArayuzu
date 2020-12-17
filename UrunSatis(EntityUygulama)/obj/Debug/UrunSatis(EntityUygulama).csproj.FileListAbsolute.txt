@@ -1,0 +1,57 @@
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe.config
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).pdb
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.dll
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.xml
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Form1.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Properties.Resources.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CopyComplete
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).pdb
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmAnaForm.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmUrun.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmIstatistik.resources
+C:\Users\yigit\Desktop\Udemy\C# Murat Yücedağ\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmGiris.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe.config
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).pdb
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.dll
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.xml
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Form1.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmAnaForm.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmGiris.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmIstatistik.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmUrun.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Properties.Resources.resources
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CopyComplete
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\yigit\Desktop\Projects\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).pdb
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe.config
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\UrunSatis(EntityUygulama).pdb
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.dll
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.xml
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csprojAssemblyReference.cache
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Form1.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmAnaForm.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmGiris.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmIstatistik.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.FrmUrun.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis_EntityUygulama_.Properties.Resources.resources
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.GenerateResource.cache
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CoreCompileInputs.cache
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).csproj.CopyComplete
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).exe
+C:\Users\YiğitArpacıoğlu\Desktop\.NET\UrunSatis(EntityUygulama)\UrunSatis(EntityUygulama)\obj\Debug\UrunSatis(EntityUygulama).pdb
